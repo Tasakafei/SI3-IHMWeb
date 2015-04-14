@@ -1,0 +1,201 @@
+{
+  "avatar": "images/avatar.jpg",
+  "citation": {
+    "contenu":"Il est important d'avoir des rêves assez grands pour ne pas les perdre de vue lorsqu'on les poursuit.",
+    "auteur": "Oscar Wilde"
+  },
+	"formations": [
+		{
+			"date": "2014-2017",
+			"lieu": "Ecole Polytech Nice-Sophia",
+			"intitule": "Préparation d'un Diplome d'ingénieur en Sciences Informatiques"
+		},
+		{
+			"date":"2014",
+			"lieu": "IUT Aix-Marseille pôle Aix-en-Provence",
+			"intitule": "Diplôme Universitaire Technologique informatique - option génie informatique"
+		},
+		{
+			"date": "2012",
+			"lieu": "Lycée Adam de Craponne - Salon de Provence",
+			"intitule": "Baccalauréat Scientifique option Sciences de l'ingénieur",
+			"mention" : "Mention Assez bien"
+		}
+	],
+	"experiences": [
+		{
+			"date":"2014",
+			"lieu":"Laboratoire Parole et Langage CNRS AMU UMR 6057  à Aix-en-Provence",
+			"intitule":"Stage migration et conception du système d'information principal du LPL"
+		},
+		{
+			"date": "2014",
+			"lieu":"Atlantique déménageur - Bordeaux",
+			"intitule": "Déménageur dans une équipe de trois personnes"
+		},
+		{
+			"date": "été 2011",
+			"lieu": "Géodis à Clesud plateforme Européenne à Miramas",
+			"intitule": "Manutentionnaire / préparateur de commande / chef d'équipe de 3 personnes"
+		}
+
+	],
+	"competences": [
+    {
+      "type": "Informatique",
+      "valeurs": [
+        {
+          "categorie": "langage",
+          "valeur": "C/C++",
+          "maitrise": "90"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "PHP",
+          "maitrise": "75"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "Java",
+          "maitrise": "85"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "MySQL",
+          "maitrise": "80"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "HTML/CSS",
+          "maitrise": "95"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "JavaScript",
+          "maitrise": "70"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "MIPS",
+          "maitrise": "75"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "ARM",
+          "maitrise": "75"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "Bash",
+          "maitrise": "85"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "langage",
+          "valeur": "Batch",
+          "maitrise": "70"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "Système",
+          "valeur": "Windows",
+          "maitrise": "95"
+        },
+        {
+          "matiere": "informatique",
+          "categorie": "Système",
+          "valeur": "Linux",
+          "maitrise": "95"
+        }
+      ]
+    },
+    {
+      "type": "Linguistique",
+      "valeurs": [
+        {
+          "matiere": "Linguistique",
+          "valeur": "Anglais",
+          "maitrise": "85",
+          "complements": "785 au TOIC"
+        },
+        {
+          "matiere": "Linguistique",
+          "valeur": "Italien",
+          "maitrise": "60",
+          "complements": "Famille Sarde"
+        },
+        {
+          "matiere": "Linguistique",
+          "valeur": "Chinois",
+          "maitrise": "35"
+        }
+      ]
+    },
+    {
+      "type": "Diverses",
+      "valeurs": [
+        {
+          "matiere": "Matières diverses",
+          "valeur": "Economie",
+          "maitrise": "70"
+        },
+        {
+          "matiere": "Matières diverses",
+          "valeur": "Gestion d'entreprise",
+          "maitrise": "75"
+        },
+        {
+          "matiere": "Matières diverses",
+          "valeur": "Gestion de projets",
+          "maitrise": "70"
+        },
+        {
+          "matiere": "Matières diverses",
+          "valeur": "Droit général et informatique",
+          "maitrise": "60"
+        },
+        {
+          "matiere": "Matières diverses",
+          "valeur": "Logistique",
+          "maitrise": "85"
+        }
+      ]
+    }
+
+	],
+	"projets" : [
+		{
+			"intitule": "Puissance 4 en C++",
+			"description": "Ce projet a été réalisé pour pouvoir confirmer nos compétences à la fin du premier semestre du DUT1. Un projet m'ayant apporté une certaine vision du travail et surtout de la motivation. Il m'aura valu la note maximale grâce à une IA que j'ai pu implémenter.",
+			"note": "20/20"
+		},
+		{
+			"intitule": "Morpion en JAVA",
+			"description": "Un projet permettant de prendre en main le langage JAVA et d'acquérir certaines connaissances en IHM",
+			"note": "13/20"
+		},
+		{
+			"intitule": "Site web sécurisé en PHP et Javascript",
+			"description": "En tant que projet noté, nous avions comme objectif de créer un site web. Ce site web était noté sur le code (l'utilisation du JavaScript et du PHP) et non sur le design.",
+			"note":"14/20"
+		},
+		{
+			"intitule": "Projet PPE - Lycée",
+			"description": "Ce projet réalisé avec trois autres personnes était noté pour le Bac. Nous avions choisi un sujet ambitieux : la création d'un logiciel de gestion pour les chambres froides ainsi que de son prototype automatisé. Celui-ci aura été découpé en deux partie : une partie électronique et une partie mécanique. Concernant le prototype, celui-ci aura été réalisé à l'aide d'un vieux réfrigérateur récupéré à la décharge, d'un moteur de perceuse, de capteurs TOR récupéré sur les respirations artificielles d'hopital, d'un lecteur de codes barres, d'un microcontroleur, d'un capteur de température, d'un écran tactile et enfin d'une R-shunt. Tout cela nous a amené à créer une réfrigérateur à ouverture automatique (lors de la pression d'un bouton sur l'écran tactile), avec gestion de l'inventaire (chaque colis étant rentré par lecture de code barre ou manuellement) et de température (alarme si trop élevée). Le tout étant sécurisé par le biais de la R-shunt. Nous repérions l'intensité et si celle-ci était trop élevée nous émetions une alarme pour prévenir d'un éventuel problème (si le couple est anormalement élevé celà signifie que quelqu'un ou quelque chose force contre la porte). Concernant le logiciel, celui-ci avait été réalisé en Visual Basic (langage correspondant à notre niveau de lycéen) composé d'une base de données",
+			"note": "13/20"
+		}
+	],
+	"loisirs": [
+		"Vie associative(pr�sident BDE Inform'Aix, organisateur de la journ�e Handivalides � Polytech Nice-Sophia, acteur d'une pi�ce de th��tre pour enfants)" ,"Hand-Ball (S�lectionn� en �quipe d�partement au coll�ge)", "Numismatique", "Roller"
+	]
+
+}
+
